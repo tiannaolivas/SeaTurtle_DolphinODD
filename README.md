@@ -17,9 +17,9 @@ Individuals may vary in their willingness to change certain behaviors predicted 
 4. Objectives: The primary objective of the individuals is for a transition to certain behaviors that can contribute to the reduction of human-wildlife interactions between people who come to the coast of Alabama to recreate and Gulf sea turtles/dolphins.
 ### Details - 
 1. Initialization: The simulation begins with a defined number of individuals with random demographics and characteristics regarding recreational activities in coastal Alabama. 
-2. Details - input data: As time progresses, demographics are projected to change in a specific way that is related to certain data (e.g. younger people are going to the coast, more educated people are going to the coast, etc.)
-3. Submodels: Their will be submodels for projected demographic change.
-4. Parameters: Model parameters include various demographics for individuals, various behavioral responses and a projected change in demographics.
+2. Input data: As time progresses, demographics are projected to change in a specific way that is related to current demographic data (e.g. younger people are going to the coast, more educated people are going to the coast, etc.)
+3. Submodels: There will be submodels for projected demographic change.
+4. Parameters: Model parameters include various demographics for individuals, various behavioral responses, and a projected change in demographics.
 5. Observations: Stakeholders demographics and: 
     1. Basic knowledge/attitudes
     2. Behavior
